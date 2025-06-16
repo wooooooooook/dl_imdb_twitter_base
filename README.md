@@ -1,1 +1,2 @@
-# dl_imdb_twitter_base
+# DeepLearning
+## cardiffnlp/twitter-roberta-base-sentiment-latest 베이스 fine tuned 모델
