@@ -53,4 +53,4 @@ tar -xzf aclImdb_v1.tar.gz
 
 ## 제작
 
-wooooooooooook
+[wooooooooook](https://github.com/wooooooooook)
