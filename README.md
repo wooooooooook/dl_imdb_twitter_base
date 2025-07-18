@@ -2,6 +2,8 @@
 
 ## cardiffnlp/twitter-roberta-base-sentiment-latest base fine tuned model
 
+<img width="1240" height="848" alt="model_description" src="https://github.com/user-attachments/assets/80254966-0b4f-43fa-9ace-cb8c2650eea5" />
+
 ## How to use
 
 ### Download
